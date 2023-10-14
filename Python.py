@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 even_numbers = []
 odd_numbers = []
@@ -39,3 +40,6 @@ for number in numbers:
 
 print(f'Even numbers: {even_numbers}')
 print(f'Odd numbers: {odd_numbers}')
+=======
+
+>>>>>>> 084deca96dcfd1fc117a1337aed1431392c2aa12
