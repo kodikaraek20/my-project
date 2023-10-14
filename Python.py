@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 even_numbers = []
 odd_numbers = []
@@ -28,7 +27,6 @@ for _ in range(4):
 # Close the turtle graphics window on click
 turtle.done()
 
-=======
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 even_numbers = []
 odd_numbers = []
@@ -41,4 +39,3 @@ for number in numbers:
 
 print(f'Even numbers: {even_numbers}')
 print(f'Odd numbers: {odd_numbers}')
->>>>>>> 538f33e54bd5be972e2358abb7e00b5e2e7d9865
